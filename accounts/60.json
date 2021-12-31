@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "drive-project-336716",
+  "private_key_id": "ca60959aa027f25bf6a97a505fa35b3d63b689d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCsLCdU64c6pQ4Z\nqpn2gBXyh5+6Is9SPoVuU856l5/cNahFXk/wosrQG2vBWv9Y/VQTWGdRCLUEzsus\nWHi26ro7cBDYhnhM0+9isPI0cGujPzredqfk1O7WzPmHPJ4M4ccPT5sCLNn7rALB\nZecm41baq0ZsIlSiXwERgUlPKcLGHxBGHr8O5fpue3CwQNmKRUdVZmDiD+zivmPF\nlNwMst31r4Ojg3XeBOct6ENzMtRd1mZdFg/KdiIYAUVxhMMMiCTYfrsZoOoQbX8a\ndIqhQ76YqZqLqnl7VpUEf+kgVPrV4nPOv76HMqwQfnRQMYiVIKpF0Y4NhS+9YBnQ\n/91D0qs/AgMBAAECggEAQccEp87r9R3GC0xAUgqRV/00qtpNtrAoLgRaqD9xVaIy\nTX5AsEChl2xCeLaZQ5hVHKbzoePftJyE9609QTTgPYENDowhPcjidiQABMTGerHX\nfdJ7RlOLhAj/dAlWoLlJYbIaGHSmOx52VwjljNfiANzapMlg6D+/mr54EYR041eu\nA1ylcoXXHgx6JOTXoFiOqWb3kVm4f4wq3/zD6mZ7+hWc/coPMd2LBsC7yCFWbPHs\nUIR9TD8A2uGFCLJBOUc1dN9kMXpVtwmf61+XNx1a7akPcWtWq07NyquqdzYXH3NC\nmz3ZkAAh/8Prs/4YmxS5HxL8ovkdeEeIItUjIpJqoQKBgQDhGIOQYIjoYG6rBXqA\nBhFdhTAOyvxSOHYCDkZIWWlXJLINuKqikOMkGPeIWtW9a1vbR239cQlWpagrxkCe\npXRij1OD5FFDACF4VoUUFPlVBKa96eDquGS2GxZRfxsKhWFqRCBjGMNA1naKRXmC\nDKu4nfqXuKDV6BQkQrb+KLmkBwKBgQDDz4jPmiWYpppbxMFa1VzXfdPJsU9BVNHl\nd4KPINkyZb1c2mUyeKj7SvgGkDQLAItB9Gs3s7Qw6lals3P5GLujFHaZlEAEddUl\np0qeSyJ0bRjVSTHTZuOghwnMRttb6976oQzfkuYVfEQKG04S1Myq8gG+jCCHDUvK\nlsIIG+EhCQKBgQCnb2GlynjsSZbodfnKMzlFlGXMCyenTUJSgyW6eW/HF4+ubzfW\nFuoulrfB4Ldu3+YC9V4WkLd+kVjHvv+gQriQ+8YGrJXZvcYnykvRRUy19fDGAauB\nTUn0v69ZTa/iopZ0wlpI/El4+E5Syhz5JM2zVSfrJbXVh307/7g41DhKjwKBgQCu\nDPVhA3XTwJOIatYr9We3LGNq7q6yNcD1JUvqCZrGj2TI+l/lgxdBd5wLyXZZKTyf\nfbEoLBZJPKOUWnUFwBRZm0DotrxIuqyh8ZgEKGkR8D+Ypp0hel1vPVlaOMmXZYwo\nX6tft+XIx1J7YVX+qyTZ9o/SXiAzq3/pLiR+rLlqcQKBgQDPvLwVRmhPagJwir5N\nPyPV8lBNJquSB3kOlQ6hEwUUiC7nwwJEKrJdy2Rtmi6RiU8CNr8IXs3fd4bFssgo\nUQhalYNLxmqG2k/IDx/KjDCemjCyWYvW2A9UkchqrMLv8TMsVbruxJKQY7W85X+r\nHUzP1/yJvjXJlVa9oUvmYROUNQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-u2tncexh08deyaxdjy9z0th-go@drive-project-336716.iam.gserviceaccount.com",
+  "client_id": "116824367787684438002",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-u2tncexh08deyaxdjy9z0th-go%40drive-project-336716.iam.gserviceaccount.com"
+}
